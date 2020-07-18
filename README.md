@@ -6,7 +6,7 @@
     
 ### 🎉 My Successful Projects
 + [mycharacter-organizer](https://github.com/Bananamilk452/mycharacter-organizer) (마이자캐, Character Organizer)
-+ [Winget PPA](https://www.wingetppa.com) (Winget Package Searcher)
++ [Winget PPA](https://www.wingetppa.xyz) (Winget Package Searcher)
 + [TwitchAOT](https://github.com/Bananamilk452/TwitchAOT) (Twitch Always on top Viewer)
 + [mc-searcher](https://www.mc-searcher.com) (Minecraft Info Searcher)
      
