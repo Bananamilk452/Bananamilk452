@@ -15,4 +15,4 @@
     
 ### Contact
 [Twitter](https://twitter.com/starterdroid)   
-[Discord]https://discord.com/users/272616743275331584)
+[Discord](https://discord.com/users/272616743275331584)
