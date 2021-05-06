@@ -1,16 +1,13 @@
 ### 😜 Hi! I'm Bananamilk452
-+ ✨ Also known as Lemongreen, starterdroid, Junsu Yun (real name)
++ ✨ Also known as Lemongreen, starterdroid
 + ❤ Interested in Node.js, Vue.js.
 + :house: Working at home
-+ 👨‍🏫 High School Student
     
-### 🎉 My Successful Projects
+### 🎉 Projects
 + [mycharacter-organizer](https://github.com/Bananamilk452/mycharacter-organizer) (마이자캐, Character Organizer)
-+ [Winget PPA](https://www.wingetppa.xyz) (Winget Package Searcher)
 + [TwitchAOT](https://github.com/Bananamilk452/TwitchAOT) (Twitch Always on top Viewer)
-+ [mc-searcher](https://www.mc-searcher.com) (Minecraft Info Searcher)
      
-### Certificates & Awards
+### Certificates
 + 🏆 Microsoft Azure Fundamentals (AZ-900)
     
 ### Contact
