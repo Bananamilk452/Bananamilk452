@@ -12,6 +12,10 @@
      
 ### Certificates
 + 🏆 Microsoft Azure Fundamentals (AZ-900)
+
+### Career
++ SWMaestro 13th trainee 소프트웨어 마에스트로 13기 연수생
     
 ### Contact  
-[Discord](https://discord.com/users/272616743275331584)
+[Discord](https://discord.com/users/272616743275331584) Lemongreen#7722
+Twitter @midrangecat
