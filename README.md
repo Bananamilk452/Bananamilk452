@@ -14,6 +14,7 @@
 + 🏆 Microsoft Azure Fundamentals (AZ-900)
 
 ### Career
++ Sunmoon University Computer Science 선문대학교 컴퓨터
 + SWMaestro 13th trainee 소프트웨어 마에스트로 13기 연수생
     
 ### Contact  
