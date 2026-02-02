@@ -1,5 +1,4 @@
 ### 😜 Hi! I'm Bananamilk452
-+ ✨ Also known as Lemongreen, starterdroid
 + ❤ Interested in Node.js, Frontend Techs.
 + 🏠 Live in Korea
 
